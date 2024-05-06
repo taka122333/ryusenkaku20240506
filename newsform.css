@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(40, 40, 40);
+    color: white;
+    overflow-x: hidden;
+}
+
+.body-input {
+    margin: 5vw;
+}
+
+.logo {
+    margin: 0;
+    padding: 0;
+    background-color: red;
+}
+
+.logo-img {
+    margin: 0;
+    padding: 0;
+    width: 35%;
+}
+
+.hedder-title {
+    background-color: gray;
+    font-size: 5vw;
+    text-align: center;
+}
+
+.input-date,
+.input-title,
+.input-message {
+    margin: 3vw 0;
+    width: 100%;
+    font-size: 16px;
+}
+
+.input-message {
+    margin: 10vw 0;
+    width: 100%;
+    font-size: 16px;
+}
+
+.input-submit {
+    text-align: center;
+}
